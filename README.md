@@ -1,2 +1,2 @@
-# UDKitCore
-GLPI UD Kit main plugin contains core functionality
+# UD-Kit-Core
+GLPI-UD-Kit main plugin contains core functionality
